@@ -1,0 +1,14 @@
+Dataset: MAMS 
+Encoder_name: distilbert-base-uncased 
+Feature_type: mean
+Batch_size: 50
+Train mode: Epoch 1, loss 0.9586030992732686, f1 0.45620939925430526
+Validation mode: Epoch 1, loss 0.8876286560998243, f1 0.5560202531534933
+Train mode: Epoch 2, loss 0.857670095316164, f1 0.5800708477429742
+Validation mode: Epoch 2, loss 0.831518646548776, f1 0.5923020271403264
+Train mode: Epoch 3, loss 0.815846953802048, f1 0.6091302194278034
+Validation mode: Epoch 3, loss 0.8031245864489499, f1 0.6050825678634261
+Train mode: Epoch 4, loss 0.7882284799199195, f1 0.6204790336542274
+Validation mode: Epoch 4, loss 0.7846042741747463, f1 0.616673399251486
+Train mode: Epoch 5, loss 0.7682037224435503, f1 0.6368428446922424
+Validation mode: Epoch 5, loss 0.7656779289245605, f1 0.6338037093654506

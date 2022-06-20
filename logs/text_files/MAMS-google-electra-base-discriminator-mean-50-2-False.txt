@@ -1,0 +1,14 @@
+Dataset: MAMS 
+Encoder_name: google-electra-base-discriminator 
+Feature_type: mean
+Batch_size: 50
+Train mode: Epoch 1, loss 0.9891479721494542, f1 0.4333899425809893
+Validation mode: Epoch 1, loss 0.9151158604551765, f1 0.5038076867136644
+Train mode: Epoch 2, loss 0.8764426320981068, f1 0.5665084787584361
+Validation mode: Epoch 2, loss 0.8497337146716959, f1 0.5585362539993388
+Train mode: Epoch 3, loss 0.8260234594345093, f1 0.6049610600695873
+Validation mode: Epoch 3, loss 0.817273398532587, f1 0.5860184432443954
+Train mode: Epoch 4, loss 0.792366455315025, f1 0.6227711939802628
+Validation mode: Epoch 4, loss 0.7897982614881852, f1 0.6162514279470339
+Train mode: Epoch 5, loss 0.7711411919563439, f1 0.6353432152275622
+Validation mode: Epoch 5, loss 0.7756084830445402, f1 0.616657167758493

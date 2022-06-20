@@ -1,0 +1,14 @@
+Dataset: MAMS 
+Encoder_name: distilroberta-base 
+Feature_type: mean
+Batch_size: 50
+Train mode: Epoch 1, loss 1.0012225971859732, f1 0.40310145505513884
+Validation mode: Epoch 1, loss 0.9543622144881416, f1 0.5418380891755671
+Train mode: Epoch 2, loss 0.9132361932165304, f1 0.539356221796217
+Validation mode: Epoch 2, loss 0.9012471428688835, f1 0.5596578123022865
+Train mode: Epoch 3, loss 0.8686103528472269, f1 0.5739705300260806
+Validation mode: Epoch 3, loss 0.8666100037448546, f1 0.5862310116025685
+Train mode: Epoch 4, loss 0.8399368281577043, f1 0.5939157211184604
+Validation mode: Epoch 4, loss 0.8464162770439597, f1 0.5972146460552314
+Train mode: Epoch 5, loss 0.8198255520717354, f1 0.6056474205721154
+Validation mode: Epoch 5, loss 0.8287570459001204, f1 0.6165830949367762

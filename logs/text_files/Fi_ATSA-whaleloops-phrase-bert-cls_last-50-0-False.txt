@@ -1,0 +1,12 @@
+Dataset: Fi_ATSA 
+Encoder_name: whaleloops-phrase-bert 
+Feature_type: cls_last
+Batch_size: 50
+Train mode: Epoch 1, loss 1.0431425401142664, f1 0.3438558297048863
+Validation mode: Epoch 1, loss 0.9327057003974915, f1 0.4400318028225005
+Train mode: Epoch 2, loss 0.9033325144222805, f1 0.4946063504864133
+Validation mode: Epoch 2, loss 0.8632477521896362, f1 0.5377376158816368
+Train mode: Epoch 3, loss 0.8442537529127938, f1 0.5762481820433232
+Validation mode: Epoch 3, loss 0.8027357856432596, f1 0.6428523118115939
+Train mode: Epoch 4, loss 0.7934968045779637, f1 0.6326589275843008
+Validation mode: Epoch 4, loss 0.7599488099416097, f1 0.7015690776884806

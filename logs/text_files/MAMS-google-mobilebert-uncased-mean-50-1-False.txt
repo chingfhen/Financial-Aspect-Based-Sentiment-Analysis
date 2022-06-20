@@ -1,0 +1,14 @@
+Dataset: MAMS 
+Encoder_name: google-mobilebert-uncased 
+Feature_type: mean
+Batch_size: 50
+Train mode: Epoch 1, loss 1.5412053853083567, f1 0.5194820380538651
+Validation mode: Epoch 1, loss 1.0063001040150137, f1 0.5848124994475622
+Train mode: Epoch 2, loss 1.1945852477839038, f1 0.5928180272525593
+Validation mode: Epoch 2, loss 1.3308441814254313, f1 0.5647127350377479
+Train mode: Epoch 3, loss 1.1024819563148887, f1 0.6095541139654204
+Validation mode: Epoch 3, loss 0.8812134476268992, f1 0.6554788870156384
+Train mode: Epoch 4, loss 1.0776328235674815, f1 0.6126566466231416
+Validation mode: Epoch 4, loss 1.032826164189507, f1 0.5976784022686243
+Train mode: Epoch 5, loss 1.0777933757016613, f1 0.6118753516284393
+Validation mode: Epoch 5, loss 0.9614502783207333, f1 0.6313261171424335

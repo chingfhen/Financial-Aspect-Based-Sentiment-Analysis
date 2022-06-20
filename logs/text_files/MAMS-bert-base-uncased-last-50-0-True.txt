@@ -1,0 +1,14 @@
+Dataset: MAMS 
+Encoder_name: bert-base-uncased 
+Feature_type: last
+Batch_size: 50
+Train mode: Epoch 1, loss 0.9022363424301147, f1 0.5321929865125011
+Validation mode: Epoch 1, loss 0.8391372798120275, f1 0.6047866621126926
+Train mode: Epoch 2, loss 0.7905342476383136, f1 0.6198485384204069
+Validation mode: Epoch 2, loss 0.7917416411287644, f1 0.6271891114996229
+Train mode: Epoch 3, loss 0.7522888282302079, f1 0.6442465011577366
+Validation mode: Epoch 3, loss 0.763095283332993, f1 0.6409435291154059
+Train mode: Epoch 4, loss 0.7276272329555196, f1 0.6602774513624307
+Validation mode: Epoch 4, loss 0.748692727264236, f1 0.6481520144879408
+Train mode: Epoch 5, loss 0.707639863536616, f1 0.6711021829385494
+Validation mode: Epoch 5, loss 0.7374339480610455, f1 0.6554210817800216

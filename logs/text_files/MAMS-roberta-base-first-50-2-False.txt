@@ -1,0 +1,14 @@
+Dataset: MAMS 
+Encoder_name: roberta-base 
+Feature_type: first
+Batch_size: 50
+Train mode: Epoch 1, loss 0.9972526275428237, f1 0.4131963878484002
+Validation mode: Epoch 1, loss 0.9316667493651895, f1 0.5157930691086583
+Train mode: Epoch 2, loss 0.9042127413354861, f1 0.5506272096219748
+Validation mode: Epoch 2, loss 0.8770975575727575, f1 0.5654844081740068
+Train mode: Epoch 3, loss 0.8579747714814107, f1 0.5829849679621235
+Validation mode: Epoch 3, loss 0.8471104213420082, f1 0.57952351405882
+Train mode: Epoch 4, loss 0.8289391132676678, f1 0.6069463627098967
+Validation mode: Epoch 4, loss 0.8275735571103937, f1 0.5909296911910503
+Train mode: Epoch 5, loss 0.8086323567256806, f1 0.6172949997849339
+Validation mode: Epoch 5, loss 0.8101064492674435, f1 0.6058865164615164
