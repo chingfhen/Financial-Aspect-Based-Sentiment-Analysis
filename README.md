@@ -4,4 +4,3 @@ This repository is about Aspect Based Sentiment Analysis (ABSA). This is part of
 
 [1] https://github.com/chingfhen/Financial-Aspect-Based-Sentiment-Analysis/blob/main/URECA_Final_Research_Paper.pdf
 
-Demo: 
