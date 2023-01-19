@@ -13,4 +13,4 @@ In this research project:
 
 • Performed extensive academic research and analysis on aspect based sentiment analysis
 
-This project was that of the NTU URECA Research Program which i achieved a Distinction. To read the research paper click [here](https://github.com/chingfhen/Financial-Aspect-Based-Sentiment-Analysis/blob/main/URECA_Final_Research_Paper.pdf). To view the poster click [here](https://github.com/chingfhen/Financial-Aspect-Based-Sentiment-Analysis/blob/main/Poster%20-%20Explicit%20Financial%20Sentiment%20Analysis.pdf)
+This project was part of the NTU URECA Research Program which i achieved a Distinction. To read the research paper click [here](https://github.com/chingfhen/Financial-Aspect-Based-Sentiment-Analysis/blob/main/URECA_Final_Research_Paper.pdf). To view the poster click [here](https://github.com/chingfhen/Financial-Aspect-Based-Sentiment-Analysis/blob/main/Poster%20-%20Explicit%20Financial%20Sentiment%20Analysis.pdf)
